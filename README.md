@@ -2,9 +2,9 @@
 A simple program that reads a numeric score (0-100) and reports the corresponding letter grade.
 
 ## Setup
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+-python -m venv .venv
+-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+-pip install -r requirements.txt
 
 ## Run
 python lab1.py
